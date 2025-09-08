@@ -40,7 +40,7 @@ pip install -U langchain-huggingface transformers-stream-generator accelerate
   cwe: CWE-XXX
   fixed:
   <исправленный код>
-```
+  ```
 > **Примечание:** Эта программа разрабатывалась и тестировалась в **Kaggle** с использованием видеокарты **NVIDIA Tesla P100**.
 
 # Все зависимости проекта перечислены здесь и должны быть установлены через:
